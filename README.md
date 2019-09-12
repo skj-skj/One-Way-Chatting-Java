@@ -7,4 +7,5 @@ It has Two way communication but One way Chatting
 Have a Closer Look :)
 
 Java File: Server.java - https://github.com/skj-skj/One-Way-Chatting-Java/blob/master/Server.java
-           Client1.java - https://github.com/skj-skj/One-Way-Chatting-Java/blob/master/Client1.java
+
+Client1.java - https://github.com/skj-skj/One-Way-Chatting-Java/blob/master/Client1.java
